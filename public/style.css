@@ -1,0 +1,27 @@
+.clockbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+    height: 90vh;
+}
+
+svg{
+    margin: 2em;
+    padding: 2em;
+}
+
+
+
+.sizing-box {
+    fill: none;
+}
+
+#hour,
+#minute,
+#second,
+#numbers{
+    transform-origin: 300px 250px;
+    transition: transform .5s ease-in-out;
+}
+
