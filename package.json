@@ -1,0 +1,14 @@
+{
+  "name": "analog-clock",
+  "version": "1.0.0",
+  "description": "a analog clock made with SVG-Edit Web App and JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "someshwarrc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
